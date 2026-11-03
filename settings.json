@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "Zenpai.aternos.me",
-    "port": 28687,
+    "ip": "AxeonSmp.aternos.me",
+    "port": 54057,
     "version": "1.21.11",
     "try-creative": false
   },
