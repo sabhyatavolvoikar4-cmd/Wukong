@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "WukongSMP.aternos.me",
-    "port": ,
+    "port": 51432,
     "version": "1.21.11",
     "try-creative": false
   },
